@@ -1,16 +1,26 @@
-# grada_app
+# my_flutter_app
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+![screenshot](assets\images\Screenshot_1687944833.png)
+![screenshot](assets\images\Screenshot_1687944838.png)
+![screenshot](assets\images\Screenshot_1687944891.png)
+![screenshot](assets\images\Screenshot_1687944900.png)
+![screenshot](assets\images\Screenshot_1687944908.png)
+![screenshot](assets\images\Screenshot_1687944912.png)
+![screenshot](assets\images\Screenshot_1687944921.png)
+![screenshot](assets\images\Screenshot_1687944930.png)
+![screenshot](assets\images\Screenshot_1687944940.png)
+![screenshot](assets\images\Screenshot_1687944944.png)
+![screenshot](assets\images\Screenshot_1687944953.png)
+![screenshot](assets\images\Screenshot_1687944966.png)
+![screenshot](assets\images\Screenshot_1687944972.png)
+![screenshot](assets\images\Screenshot_1687944981.png)
+![screenshot](assets\images\Screenshot_1687944984.png)
+![screenshot](assets\images\Screenshot_1687944990.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
