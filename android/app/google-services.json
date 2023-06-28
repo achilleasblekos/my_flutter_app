@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854655032390",
+    "project_id": "grada-2956c",
+    "storage_bucket": "grada-2956c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854655032390:android:53d3f7773deddefd8c3e47",
+        "android_client_info": {
+          "package_name": "com.example.grada_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854655032390-lmbi69pv74i1rmlcqd0l7makaii1rslf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1tRl7ozWTTa7i35EUGnDnE_zbnNazTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854655032390-lmbi69pv74i1rmlcqd0l7makaii1rslf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
